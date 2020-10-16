@@ -1,1 +1,1 @@
-print("goblok mun teu kadieu")
+print("anjing sia mun teu didie")
