@@ -1,0 +1,1 @@
+print("goblok mun teu kadieu")
